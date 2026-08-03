@@ -1,27 +1,34 @@
-## Code Alpha Internship – Task 1
+# Code Alpha Digital Marketing & Branding Internship
 
-## Social Media Campaign Design
+## 👨‍💻 Prepared By
+**Subhan Ali**
 
-This repository contains my submission for **Task 1** of the **Code Alpha Digital Marketing & Branding Internship**.
+---
 
-## 📁 Files Included
+# Completed Tasks
 
-- 7-Day Content Calendar (Word)
+## ✅ Task 1 – Social Media Campaign Design
+- 7-Day Content Calendar (DOCX)
 - 7-Day Content Calendar (PDF)
 - Day 1 – Welcome Post
 - Day 2 – Internship Benefits
 - Day 3 – Success Story
 - Day 4 – Skill Development
 - Day 5 – Project Showcase
-- Day 6 – Productivity & Good Habits
+- Day 6 – Productivity Tips
 - Day 7 – Start Your Journey
 
-## 🛠 Tools Used
+## ✅ Task 2 – SEO & Keyword Research
+- SEO Keyword Research Report (DOCX)
+- SEO Keyword Research Report (PDF)
 
+---
+
+## 🛠 Tools Used
 - Microsoft Word
 - Canva
 - GitHub
 
-## 👨‍💻 Prepared By
+---
 
-**Subhan Ali**
+Thank you, Code Alpha, for providing this valuable learning opportunity.
