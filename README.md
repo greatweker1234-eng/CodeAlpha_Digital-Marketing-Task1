@@ -18,12 +18,6 @@
 - Day 6 – Productivity Tips
 - Day 7 – Start Your Journey
 
-## ✅ Task 2 – SEO & Keyword Research
-- SEO Keyword Research Report (DOCX)
-- SEO Keyword Research Report (PDF)
-
----
-
 ## 🛠 Tools Used
 - Microsoft Word
 - Canva
